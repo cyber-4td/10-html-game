@@ -1,0 +1,13 @@
+
+tysj_putong.png
+size: 96,92
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+put
+  rotate: false
+  xy: 2, 2
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1

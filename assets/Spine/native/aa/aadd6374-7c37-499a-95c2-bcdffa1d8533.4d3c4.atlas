@@ -1,0 +1,76 @@
+
+TX_bingyu.png
+size: 348,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+by1
+  rotate: false
+  xy: 245, 81
+  size: 51, 88
+  orig: 51, 97
+  offset: 0, 9
+  index: -1
+by2
+  rotate: false
+  xy: 159, 83
+  size: 55, 86
+  orig: 55, 93
+  offset: 0, 7
+  index: -1
+by3
+  rotate: true
+  xy: 159, 27
+  size: 54, 84
+  orig: 54, 92
+  offset: 0, 8
+  index: -1
+diban
+  rotate: false
+  xy: 2, 30
+  size: 155, 139
+  orig: 155, 139
+  offset: 0, 0
+  index: -1
+guangdian
+  rotate: false
+  xy: 245, 17
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+liewen
+  rotate: true
+  xy: 298, 81
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+sp1
+  rotate: false
+  xy: 309, 10
+  size: 34, 29
+  orig: 34, 29
+  offset: 0, 0
+  index: -1
+sp2
+  rotate: true
+  xy: 298, 137
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+sp3
+  rotate: false
+  xy: 309, 41
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+sp4
+  rotate: true
+  xy: 2, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

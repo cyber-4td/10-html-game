@@ -1,0 +1,181 @@
+
+ta_penhuo.png
+size: 411,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1biaoqing1
+  rotate: false
+  xy: 56, 2
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+1fa
+  rotate: false
+  xy: 2, 6
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+1gan1
+  rotate: true
+  xy: 299, 70
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+1st1
+  rotate: false
+  xy: 2, 34
+  size: 59, 106
+  orig: 59, 106
+  offset: 0, 0
+  index: -1
+2biaoqing
+  rotate: true
+  xy: 325, 29
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+2fa
+  rotate: false
+  xy: 128, 2
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+2gan
+  rotate: false
+  xy: 374, 105
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+2shou
+  rotate: false
+  xy: 325, 8
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+2st
+  rotate: false
+  xy: 63, 36
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+3biaoqing
+  rotate: false
+  xy: 299, 93
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+3gan
+  rotate: false
+  xy: 374, 70
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+3huo _1
+  rotate: true
+  xy: 337, 70
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+4huo_1
+  rotate: true
+  xy: 337, 70
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+3maozi
+  rotate: false
+  xy: 199, 5
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+3shou_1
+  rotate: true
+  xy: 390, 3
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+3st
+  rotate: false
+  xy: 185, 51
+  size: 59, 89
+  orig: 59, 89
+  offset: 0, 0
+  index: -1
+4biaoqing
+  rotate: false
+  xy: 275, 3
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+4gan
+  rotate: false
+  xy: 365, 33
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+4huo_2
+  rotate: true
+  xy: 91, 12
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+4maozi
+  rotate: true
+  xy: 246, 63
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+4shou_1
+  rotate: false
+  xy: 341, 121
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+4shou_2
+  rotate: false
+  xy: 341, 100
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+4st
+  rotate: false
+  xy: 124, 50
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 365, 7
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+yanwu
+  rotate: false
+  xy: 124, 39
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

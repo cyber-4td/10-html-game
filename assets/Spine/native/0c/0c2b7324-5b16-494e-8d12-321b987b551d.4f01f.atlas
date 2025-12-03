@@ -1,0 +1,97 @@
+
+shujingBOSS.png
+size: 243,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao_1_1
+  rotate: true
+  xy: 69, 3
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+jiao_1_2
+  rotate: true
+  xy: 156, 3
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+jiao_2_1
+  rotate: false
+  xy: 38, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+jiao_2_2
+  rotate: true
+  xy: 176, 4
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+ku_1
+  rotate: false
+  xy: 197, 108
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+ku_2
+  rotate: false
+  xy: 2, 2
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 34
+  size: 96, 107
+  orig: 96, 107
+  offset: 0, 0
+  index: -1
+shou_1_1
+  rotate: false
+  xy: 133, 68
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+shou_1_2
+  rotate: false
+  xy: 195, 10
+  size: 40, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+shou_2_1
+  rotate: true
+  xy: 197, 53
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+shou_2_2
+  rotate: true
+  xy: 156, 38
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 102, 5
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 100, 62
+  size: 79, 31
+  orig: 79, 31
+  offset: 0, 0
+  index: -1

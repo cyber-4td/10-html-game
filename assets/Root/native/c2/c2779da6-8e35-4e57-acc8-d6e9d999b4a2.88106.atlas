@@ -1,0 +1,13 @@
+
+baoxiang_1.png
+size: 55,55
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+img_baoxiang_guang
+  rotate: false
+  xy: 2, 2
+  size: 51, 51
+  orig: 59, 59
+  offset: 4, 4
+  index: -1

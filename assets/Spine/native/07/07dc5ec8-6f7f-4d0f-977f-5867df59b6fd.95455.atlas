@@ -1,0 +1,181 @@
+
+ta_xingyao.png
+size: 228,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11biaoqing
+  rotate: false
+  xy: 168, 43
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+11gan
+  rotate: true
+  xy: 168, 30
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+11st
+  rotate: false
+  xy: 2, 75
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+22biaoqing
+  rotate: false
+  xy: 157, 107
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+22e_1
+  rotate: false
+  xy: 173, 76
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+33e_1
+  rotate: false
+  xy: 173, 76
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+22e_2
+  rotate: false
+  xy: 192, 3
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+33e_2
+  rotate: false
+  xy: 192, 3
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+22gan
+  rotate: true
+  xy: 201, 34
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+22st
+  rotate: false
+  xy: 2, 8
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+33biaoqing
+  rotate: false
+  xy: 125, 105
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+33f_1
+  rotate: false
+  xy: 207, 12
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+33jjj
+  rotate: true
+  xy: 146, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+33shou
+  rotate: true
+  xy: 125, 76
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+33st
+  rotate: false
+  xy: 63, 8
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+44e_1
+  rotate: false
+  xy: 188, 76
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+44e_2
+  rotate: false
+  xy: 189, 113
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+44f_1
+  rotate: false
+  xy: 203, 91
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+44f_2
+  rotate: false
+  xy: 201, 51
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+44gan
+  rotate: true
+  xy: 124, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+44iaoqing
+  rotate: false
+  xy: 124, 30
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+44shou
+  rotate: true
+  xy: 149, 76
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+44st
+  rotate: false
+  xy: 64, 75
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 167, 4
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+yanwu
+  rotate: false
+  xy: 184, 32
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

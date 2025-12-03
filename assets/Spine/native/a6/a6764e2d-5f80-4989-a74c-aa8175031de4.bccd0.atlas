@@ -1,0 +1,62 @@
+
+shitouBOSS.png
+size: 304,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao_1
+  rotate: true
+  xy: 229, 24
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: true
+  xy: 264, 27
+  size: 40, 33
+  orig: 40, 33
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 4
+  size: 99, 113
+  orig: 99, 113
+  offset: 0, 0
+  index: -1
+shou_1_1
+  rotate: false
+  xy: 258, 69
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+shou_1_2
+  rotate: false
+  xy: 177, 16
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 103, 2
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 103, 71
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+图层 93
+  rotate: false
+  xy: 205, 66
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1

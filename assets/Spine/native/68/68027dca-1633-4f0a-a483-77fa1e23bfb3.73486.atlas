@@ -1,0 +1,55 @@
+
+chuansongmen.png
+size: 150,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ef/dd_2 (2)
+  rotate: false
+  xy: 101, 149
+  size: 42, 42
+  orig: 50, 50
+  offset: 4, 4
+  index: -1
+ef/gq
+  rotate: false
+  xy: 2, 172
+  size: 97, 89
+  orig: 104, 104
+  offset: 4, 3
+  index: -1
+ef/juanxin (2)
+  rotate: false
+  xy: 2, 81
+  size: 94, 89
+  orig: 100, 93
+  offset: 6, 0
+  index: -1
+ef/tx_sd102
+  rotate: false
+  xy: 101, 193
+  size: 47, 68
+  orig: 66, 80
+  offset: 3, 9
+  index: -1
+ef/tx_sd104
+  rotate: false
+  xy: 2, 2
+  size: 60, 77
+  orig: 66, 80
+  offset: 1, 3
+  index: -1
+ef/tx_sd106
+  rotate: true
+  xy: 64, 16
+  size: 63, 69
+  orig: 66, 80
+  offset: 2, 0
+  index: -1
+ef/tx_sd108
+  rotate: true
+  xy: 98, 86
+  size: 61, 48
+  orig: 66, 80
+  offset: 3, 0
+  index: -1

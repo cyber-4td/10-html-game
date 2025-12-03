@@ -1,0 +1,55 @@
+
+jidi_2.png
+size: 528,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 422, 18
+  size: 90, 43
+  orig: 90, 43
+  offset: 0, 0
+  index: -1
+gggg
+  rotate: false
+  xy: 2, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+qz
+  rotate: true
+  xy: 228, 31
+  size: 94, 88
+  orig: 94, 88
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 376, 15
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 318, 4
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 127, 5
+  size: 99, 120
+  orig: 99, 120
+  offset: 0, 0
+  index: -1
+wq
+  rotate: true
+  xy: 318, 63
+  size: 62, 205
+  orig: 79, 206
+  offset: 9, 1
+  index: -1

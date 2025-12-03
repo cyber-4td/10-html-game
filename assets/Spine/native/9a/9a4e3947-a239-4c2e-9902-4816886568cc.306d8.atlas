@@ -1,0 +1,69 @@
+
+BUFF_mabi.png
+size: 40,280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_000
+  rotate: false
+  xy: 2, 244
+  size: 33, 32
+  orig: 33, 33
+  offset: 0, 1
+  index: -1
+1_001
+  rotate: false
+  xy: 2, 211
+  size: 33, 31
+  orig: 33, 33
+  offset: 0, 1
+  index: -1
+1_002
+  rotate: false
+  xy: 2, 179
+  size: 33, 30
+  orig: 33, 33
+  offset: 0, 1
+  index: -1
+1_003
+  rotate: false
+  xy: 2, 58
+  size: 33, 27
+  orig: 33, 33
+  offset: 0, 2
+  index: -1
+1_004
+  rotate: false
+  xy: 2, 2
+  size: 33, 25
+  orig: 33, 33
+  offset: 0, 3
+  index: -1
+1_005
+  rotate: false
+  xy: 2, 149
+  size: 33, 28
+  orig: 33, 33
+  offset: 0, 3
+  index: -1
+1_006
+  rotate: false
+  xy: 2, 29
+  size: 33, 27
+  orig: 33, 33
+  offset: 0, 3
+  index: -1
+1_007
+  rotate: false
+  xy: 2, 118
+  size: 31, 29
+  orig: 33, 33
+  offset: 0, 2
+  index: -1
+1_008
+  rotate: true
+  xy: 2, 87
+  size: 29, 31
+  orig: 33, 33
+  offset: 1, 0
+  index: -1

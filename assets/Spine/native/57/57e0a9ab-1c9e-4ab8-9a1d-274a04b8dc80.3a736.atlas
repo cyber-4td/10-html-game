@@ -1,0 +1,62 @@
+
+putongbing.png
+size: 84, 96
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+jiao_1
+  rotate: 270
+  xy: 56, 12
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: true
+  xy: 13, 3
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 180
+  xy: 56, 27
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: false
+  xy: 2, 17
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: false
+  xy: 29, 18
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 35, 2
+  size: 20, 9
+  orig: 20, 9
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 37
+  size: 55, 54
+  orig: 56, 54
+  offset: 1, 0
+  index: -1
+y
+  rotate: true
+  xy: 59, 55
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1

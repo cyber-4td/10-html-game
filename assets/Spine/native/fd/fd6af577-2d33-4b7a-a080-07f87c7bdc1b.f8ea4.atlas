@@ -1,0 +1,27 @@
+
+jianzhushengji.png
+size: 286,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fangshe
+  rotate: false
+  xy: 200, 11
+  size: 84, 91
+  orig: 88, 94
+  offset: 2, 1
+  index: -1
+guang_1
+  rotate: false
+  xy: 104, 8
+  size: 94, 94
+  orig: 102, 102
+  offset: 4, 4
+  index: -1
+guang_2
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 102, 102
+  offset: 1, 1
+  index: -1

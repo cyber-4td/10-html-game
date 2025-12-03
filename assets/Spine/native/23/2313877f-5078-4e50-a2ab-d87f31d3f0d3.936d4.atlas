@@ -1,0 +1,34 @@
+
+shilaimu.png
+size: 92, 104
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+shenti
+  rotate: false
+  xy: 2, 42
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 2, 2
+  size: 86, 38
+  orig: 86, 38
+  offset: 0, 0
+  index: -1
+yanjing_1
+  rotate: false
+  xy: 73, 42
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+yanjing_2
+  rotate: false
+  xy: 60, 42
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1

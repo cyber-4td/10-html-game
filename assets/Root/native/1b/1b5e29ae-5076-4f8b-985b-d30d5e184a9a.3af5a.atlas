@@ -1,0 +1,97 @@
+
+dao_3.png
+size: 638,381
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 576, 7
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 578, 79
+  size: 33, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 444, 2
+  size: 43, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+dao
+  rotate: true
+  xy: 2, 11
+  size: 368, 364
+  orig: 370, 367
+  offset: 1, 1
+  index: -1
+jiao_1
+  rotate: false
+  xy: 368, 3
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+jiao_2
+  rotate: true
+  xy: 578, 123
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: true
+  xy: 424, 51
+  size: 145, 84
+  orig: 145, 84
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: true
+  xy: 368, 50
+  size: 146, 54
+  orig: 146, 54
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 548, 239
+  size: 88, 140
+  orig: 88, 140
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 368, 198
+  size: 178, 181
+  orig: 183, 181
+  offset: 5, 0
+  index: -1
+tui_1
+  rotate: true
+  xy: 489, 7
+  size: 42, 85
+  orig: 42, 85
+  offset: 0, 0
+  index: -1
+tui_2
+  rotate: true
+  xy: 548, 198
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+y
+  rotate: true
+  xy: 510, 51
+  size: 145, 66
+  orig: 147, 68
+  offset: 1, 1
+  index: -1

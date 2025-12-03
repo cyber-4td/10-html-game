@@ -1,0 +1,13 @@
+
+jineng_quan.png
+size: 76,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jineng
+  rotate: false
+  xy: 2, 2
+  size: 72, 72
+  orig: 74, 74
+  offset: 1, 1
+  index: -1

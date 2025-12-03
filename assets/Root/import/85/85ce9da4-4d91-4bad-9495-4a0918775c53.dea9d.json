@@ -1,0 +1,1 @@
+[1,0,0,[["cc.JsonAsset",["_name","json"],1]],[[0,0,1,3]],[[0,"MonsterSkill",{"topName":"怪物配置表","twoName":"怪物技能配置表","head":[["备注","配置备注","导出类型"],["id","ID","num"],["class","技能类","string"],["param","参数","str"],["desc","技能说明","string"]],"data":[["自爆",101,"Skill_DieBoom","","死亡时自爆"]]}]],0,0,[],[],[]]

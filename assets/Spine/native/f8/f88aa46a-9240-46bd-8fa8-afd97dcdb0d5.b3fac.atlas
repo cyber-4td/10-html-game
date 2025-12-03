@@ -1,0 +1,13 @@
+
+jineng_xing.png
+size: 38,36
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xingxing
+  rotate: false
+  xy: 2, 2
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1

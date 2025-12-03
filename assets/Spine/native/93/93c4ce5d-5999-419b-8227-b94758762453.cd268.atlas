@@ -1,0 +1,153 @@
+
+ta_duye.png
+size: 410,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2st
+  rotate: false
+  xy: 121, 45
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+2tou
+  rotate: true
+  xy: 346, 68
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+2yan
+  rotate: false
+  xy: 372, 46
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+2zui
+  rotate: false
+  xy: 343, 38
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+3shou
+  rotate: false
+  xy: 314, 28
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+3st
+  rotate: false
+  xy: 62, 45
+  size: 57, 95
+  orig: 57, 95
+  offset: 0, 0
+  index: -1
+3tou
+  rotate: false
+  xy: 239, 2
+  size: 73, 64
+  orig: 73, 64
+  offset: 0, 0
+  index: -1
+3yan
+  rotate: false
+  xy: 250, 68
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+3zui
+  rotate: false
+  xy: 134, 10
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+4guan
+  rotate: true
+  xy: 372, 21
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+4shou
+  rotate: true
+  xy: 35, 10
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+4st
+  rotate: false
+  xy: 2, 45
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+4tou
+  rotate: false
+  xy: 175, 72
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+4yan
+  rotate: true
+  xy: 2, 2
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+4zui
+  rotate: false
+  xy: 88, 3
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 250, 94
+  size: 46, 94
+  orig: 46, 94
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 175, 2
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+xx
+  rotate: true
+  xy: 286, 68
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 311, 73
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 343, 27
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 314, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

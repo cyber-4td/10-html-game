@@ -1,0 +1,48 @@
+
+tysj_leidian.png
+size: 612,84
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_000
+  rotate: false
+  xy: 511, 22
+  size: 97, 57
+  orig: 102, 77
+  offset: 4, 0
+  index: -1
+1_001
+  rotate: false
+  xy: 414, 5
+  size: 95, 74
+  orig: 102, 77
+  offset: 2, 0
+  index: -1
+1_002
+  rotate: false
+  xy: 106, 2
+  size: 101, 77
+  orig: 102, 77
+  offset: 1, 0
+  index: -1
+1_003
+  rotate: false
+  xy: 313, 2
+  size: 99, 77
+  orig: 102, 77
+  offset: 3, 0
+  index: -1
+1_004
+  rotate: false
+  xy: 2, 2
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+1_005
+  rotate: false
+  xy: 209, 3
+  size: 102, 76
+  orig: 102, 77
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,118 @@
+
+ta_jiguang.png
+size: 316,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hua1
+  rotate: true
+  xy: 111, 157
+  size: 109, 91
+  orig: 109, 91
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 105, 15
+  size: 114, 99
+  orig: 114, 99
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: true
+  xy: 2, 3
+  size: 126, 101
+  orig: 126, 101
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 2, 131
+  size: 135, 107
+  orig: 135, 107
+  offset: 0, 0
+  index: -1
+lian1
+  rotate: false
+  xy: 197, 136
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: false
+  xy: 206, 2
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+lian3
+  rotate: false
+  xy: 249, 5
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+shitou2
+  rotate: false
+  xy: 111, 132
+  size: 84, 23
+  orig: 84, 23
+  offset: 0, 0
+  index: -1
+shitou3
+  rotate: true
+  xy: 206, 34
+  size: 100, 26
+  orig: 100, 26
+  offset: 0, 0
+  index: -1
+shitou4
+  rotate: false
+  xy: 204, 162
+  size: 101, 28
+  orig: 101, 28
+  offset: 0, 0
+  index: -1
+st1
+  rotate: true
+  xy: 255, 195
+  size: 71, 49
+  orig: 72, 49
+  offset: 1, 0
+  index: -1
+st2
+  rotate: true
+  xy: 204, 192
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+st3
+  rotate: true
+  xy: 240, 83
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+st4
+  rotate: false
+  xy: 234, 38
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 290, 13
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+yanwu
+  rotate: false
+  xy: 105, 4
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

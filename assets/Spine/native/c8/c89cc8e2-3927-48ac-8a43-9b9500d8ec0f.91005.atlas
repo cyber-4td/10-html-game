@@ -1,0 +1,27 @@
+
+xinta.png
+size: 131,172
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 2, 2
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 2, 72
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+xian
+  rotate: false
+  xy: 72, 7
+  size: 57, 63
+  orig: 76, 82
+  offset: 9, 9
+  index: -1

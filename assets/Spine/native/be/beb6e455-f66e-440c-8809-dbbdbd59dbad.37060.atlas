@@ -1,0 +1,13 @@
+
+BUFF_zhongdu.png
+size: 40,40
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 41, 46
+  offset: 4, 7
+  index: -1

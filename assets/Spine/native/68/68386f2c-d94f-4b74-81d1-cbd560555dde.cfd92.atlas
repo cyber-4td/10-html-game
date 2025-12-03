@@ -1,0 +1,62 @@
+
+shourenBOSS.png
+size: 100,282
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shou_1
+  rotate: true
+  xy: 60, 16
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: true
+  xy: 64, 58
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 27
+  size: 45, 56
+  orig: 45, 56
+  offset: 0, 0
+  index: -1
+tiu
+  rotate: false
+  xy: 2, 104
+  size: 91, 84
+  orig: 91, 84
+  offset: 0, 0
+  index: -1
+tui_1
+  rotate: true
+  xy: 2, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+tui_2
+  rotate: true
+  xy: 29, 2
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 2, 74
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+zhui
+  rotate: false
+  xy: 2, 190
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1

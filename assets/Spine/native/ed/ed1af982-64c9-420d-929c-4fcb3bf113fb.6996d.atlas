@@ -1,0 +1,118 @@
+
+specialeffects_shouji.png
+size: 800, 236
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+3sc0.50001
+  rotate: true
+  xy: 659, 23
+  size: 89, 84
+  orig: 146, 135
+  offset: 30, 4
+  index: -1
+3sc0.50002
+  rotate: true
+  xy: 226, 10
+  size: 100, 92
+  orig: 146, 135
+  offset: 27, 7
+  index: -1
+3sc0.50003
+  rotate: true
+  xy: 2, 2
+  size: 111, 94
+  orig: 146, 135
+  offset: 18, 5
+  index: -1
+3sc0.50004
+  rotate: false
+  xy: 320, 20
+  size: 119, 100
+  orig: 146, 135
+  offset: 15, 4
+  index: -1
+3sc0.50005
+  rotate: false
+  xy: 98, 3
+  size: 126, 107
+  orig: 146, 135
+  offset: 10, 1
+  index: -1
+3sc0.50006
+  rotate: false
+  xy: 412, 125
+  size: 133, 109
+  orig: 146, 135
+  offset: 9, 10
+  index: -1
+3sc0.50007
+  rotate: false
+  xy: 274, 122
+  size: 136, 112
+  orig: 146, 135
+  offset: 7, 10
+  index: -1
+3sc0.50008
+  rotate: false
+  xy: 2, 115
+  size: 136, 119
+  orig: 146, 135
+  offset: 8, 9
+  index: -1
+3sc0.50009
+  rotate: false
+  xy: 140, 112
+  size: 132, 122
+  orig: 146, 135
+  offset: 12, 9
+  index: -1
+3sc0.50010
+  rotate: true
+  xy: 674, 115
+  size: 119, 123
+  orig: 146, 135
+  offset: 11, 9
+  index: -1
+3sc0.50011
+  rotate: true
+  xy: 547, 114
+  size: 120, 125
+  orig: 146, 135
+  offset: 11, 9
+  index: -1
+3sc0.50012
+  rotate: true
+  xy: 530, 22
+  size: 90, 127
+  orig: 146, 135
+  offset: 25, 8
+  index: -1
+3sc0.50013
+  rotate: false
+  xy: 441, 30
+  size: 87, 93
+  orig: 146, 135
+  offset: 19, 8
+  index: -1
+3sc0.50014
+  rotate: false
+  xy: 745, 70
+  size: 49, 43
+  orig: 146, 135
+  offset: 19, 59
+  index: -1
+3sc0.50015
+  rotate: false
+  xy: 745, 28
+  size: 48, 40
+  orig: 146, 135
+  offset: 18, 63
+  index: -1
+3sc0.50016
+  rotate: false
+  xy: 320, 4
+  size: 18, 14
+  orig: 146, 135
+  offset: 18, 67
+  index: -1

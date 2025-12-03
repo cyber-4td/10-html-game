@@ -1,0 +1,223 @@
+
+ta_bingdong.png
+size: 126,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2gan
+  rotate: true
+  xy: 89, 58
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+2st
+  rotate: false
+  xy: 2, 284
+  size: 95, 40
+  orig: 95, 40
+  offset: 0, 0
+  index: -1
+2wei
+  rotate: false
+  xy: 2, 30
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+2yan
+  rotate: false
+  xy: 2, 68
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+2ye1
+  rotate: false
+  xy: 41, 24
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1
+2ye2
+  rotate: false
+  xy: 2, 228
+  size: 94, 16
+  orig: 94, 16
+  offset: 0, 0
+  index: -1
+2zui
+  rotate: false
+  xy: 55, 157
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+3e1
+  rotate: true
+  xy: 99, 250
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+3gan
+  rotate: true
+  xy: 89, 160
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+3st
+  rotate: false
+  xy: 2, 326
+  size: 95, 45
+  orig: 95, 45
+  offset: 0, 0
+  index: -1
+3wei
+  rotate: false
+  xy: 2, 168
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+3yan
+  rotate: false
+  xy: 2, 91
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+3ye2
+  rotate: false
+  xy: 2, 373
+  size: 96, 18
+  orig: 96, 18
+  offset: 0, 0
+  index: -1
+3zui
+  rotate: false
+  xy: 35, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+4gan
+  rotate: true
+  xy: 54, 47
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+4st
+  rotate: false
+  xy: 2, 393
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+4wei
+  rotate: false
+  xy: 2, 123
+  size: 51, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+4yan
+  rotate: true
+  xy: 89, 106
+  size: 52, 32
+  orig: 52, 32
+  offset: 0, 0
+  index: -1
+4ye1
+  rotate: true
+  xy: 55, 94
+  size: 47, 32
+  orig: 47, 32
+  offset: 0, 0
+  index: -1
+4ye2
+  rotate: true
+  xy: 102, 349
+  size: 85, 21
+  orig: 85, 21
+  offset: 0, 0
+  index: -1
+4ye3
+  rotate: true
+  xy: 70, 143
+  size: 65, 17
+  orig: 65, 17
+  offset: 0, 0
+  index: -1
+4zui
+  rotate: true
+  xy: 99, 284
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+gan
+  rotate: true
+  xy: 87, 15
+  size: 41, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 246
+  size: 95, 36
+  orig: 95, 36
+  offset: 0, 0
+  index: -1
+wei
+  rotate: true
+  xy: 99, 320
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 99, 225
+  size: 24, 23
+  orig: 26, 25
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 2, 9
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+yanwu
+  rotate: false
+  xy: 55, 146
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+ye1
+  rotate: false
+  xy: 89, 208
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+ye2
+  rotate: false
+  xy: 2, 210
+  size: 85, 16
+  orig: 91, 16
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 41, 59
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1

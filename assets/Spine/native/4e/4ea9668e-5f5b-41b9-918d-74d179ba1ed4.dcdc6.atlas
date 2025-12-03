@@ -1,0 +1,83 @@
+
+xiaoyling.png
+size: 60, 220
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+cb_1
+  rotate: false
+  xy: 2, 74
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+cb_2
+  rotate: false
+  xy: 2, 41
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+mao
+  rotate: 270
+  xy: 2, 106
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: 180
+  xy: 39, 85
+  size: 15, 37
+  orig: 15, 37
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: false
+  xy: 41, 28
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 141
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 177
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+tui_1
+  rotate: true
+  xy: 2, 2
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+tui_2
+  rotate: 270
+  xy: 31, 124
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+wei
+  rotate: false
+  xy: 31, 4
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+y
+  rotate: false
+  xy: 2, 21
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1

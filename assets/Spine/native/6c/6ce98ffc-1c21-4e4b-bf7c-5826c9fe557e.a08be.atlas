@@ -1,0 +1,13 @@
+
+daoju_yanwu.png
+size: 48,48
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yw
+  rotate: false
+  xy: 2, 2
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
